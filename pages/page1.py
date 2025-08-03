@@ -1,1 +1,2 @@
-"おはよう"
+import streamlit as st
+st.title("おはよう")
